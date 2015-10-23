@@ -1,18 +1,12 @@
-h1:hover { color: chartreuse; }
-a:visited { text-decoration: none; }
-header {
-  text-align: center
-  width: 75%
-  margin: auto;
+header img {
+  width: 33%;
 }
-article {
-  width: 60%
-  margin: auto;
+/* more secofoc takes prescedence*/
+a {
+  text-decoration: none;
 }
-p::first-letter {
-  font-size: 1.5em;
+nav a {
+  text-decoration: line-through;
 }
-footer {
-  border: 2px solid magenta;
-  border-radius: 15px;
-}
+p { color: hotpink; }
+p { color: burlywood; }
