@@ -1,0 +1,18 @@
+h1:hover { color: chartreuse; }
+a:visited { text-decoration: none; }
+header {
+  text-align: center
+  width: 75%
+  margin: auto;
+}
+article {
+  width: 60%
+  margin: auto;
+}
+p::first-letter {
+  font-size: 1.5em;
+}
+footer {
+  border: 2px solid magenta;
+  border-radius: 15px;
+}
